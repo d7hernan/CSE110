@@ -9,11 +9,11 @@
 ## About
 > the funniest guy I know
 
-*   - a friend*
+*a friend*
   
 > he taught me how to use `git clone` correctly!
 
-*   - another friend*
+*another friend*
 
 Here is my [Linkedin](https://www.linkedin.com/in/daniel-hernandez-109a9822a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkc4P7gPgTlyyGicDEZio6A%3D%3D)
 
